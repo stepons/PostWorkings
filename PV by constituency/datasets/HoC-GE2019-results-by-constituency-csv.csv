@@ -1,0 +1,651 @@
+CODE,ons_region_id,constituency_name,county_name,region_name,country_name,constituency_type,mp_firstname,mp_surname,mp_gender,result,first_party,second_party
+W07000049,W92000004,Aberavon,West Glamorgan,Wales,Wales,County,Stephen,Kinnock,Male,Lab hold,Lab,Con
+W07000058,W92000004,Aberconwy,Clwyd,Wales,Wales,County,Robin,Millar,Male,Con hold,Con,Lab
+S14000001,S92000003,Aberdeen North,Scotland,Scotland,Scotland,Borough,Kirsty,Blackman,Female,SNP hold,SNP,Con
+S14000002,S92000003,Aberdeen South,Scotland,Scotland,Scotland,Borough,Stephen,Flynn,Male,SNP gain from Con,SNP,Con
+S14000003,S92000003,Airdrie and Shotts,Scotland,Scotland,Scotland,County,Neil,Gray,Male,SNP hold,SNP,Lab
+E14000530,E12000008,Aldershot,Hampshire,South East,England,Borough,Leo,Docherty,Male,Con hold,Con,Lab
+E14000531,E12000005,Aldridge-Brownhills,West Midlands,West Midlands,England,Borough,Wendy,Morton,Female,Con hold,Con,Lab
+E14000532,E12000002,Altrincham and Sale West,Greater Manchester,North West,England,Borough,Graham,Brady,Male,Con hold,Con,Lab
+W07000043,W92000004,Alyn and Deeside,Clwyd,Wales,Wales,County,Mark,Tami,Male,Lab hold,Lab,Con
+E14000533,E12000004,Amber Valley,Derbyshire,East Midlands,England,County,Nigel,Mills,Male,Con hold,Con,Lab
+S14000004,S92000003,Angus,Scotland,Scotland,Scotland,County,Dave,Doogan,Male,SNP gain from Con,SNP,Con
+W07000057,W92000004,Arfon,Gwynedd,Wales,Wales,County,Hywel,Williams,Male,PC hold,PC,Lab
+S14000005,S92000003,Argyll and Bute,Scotland,Scotland,Scotland,County,Brendan,O'Hara,Male,SNP hold,SNP,Con
+E14000534,E12000008,Arundel and South Downs,West Sussex,South East,England,County,Andrew,Griffith,Male,Con hold,Con,LD
+E14000535,E12000004,Ashfield,Nottinghamshire,East Midlands,England,County,Lee,Anderson,Male,Con gain from Lab,Con,Ashfield Independents
+E14000536,E12000008,Ashford,Kent,South East,England,County,Damian,Green,Male,Con hold,Con,Lab
+E14000537,E12000002,Ashton-Under-Lyne,Greater Manchester,North West,England,Borough,Angela,Rayner,Female,Lab hold,Lab,Con
+E14000538,E12000008,Aylesbury,Buckinghamshire,South East,England,County,Rob,Butler,Male,Con hold,Con,Lab
+S14000006,S92000003,"Ayr, Carrick and Cumnock",Scotland,Scotland,Scotland,County,Allan,Dorans,Male,SNP gain from Con,SNP,Con
+E14000539,E12000008,Banbury,Oxfordshire,South East,England,County,Victoria,Prentis,Female,Con hold,Con,Lab
+S14000007,S92000003,Banff and Buchan,Scotland,Scotland,Scotland,County,David,Duguid,Male,Con hold,Con,SNP
+E14000540,E12000007,Barking,London,London,England,Borough,Margaret,Hodge,Female,Lab hold,Lab,Con
+E14000541,E12000003,Barnsley Central,South Yorkshire,Yorkshire and The Humber,England,Borough,Daniel,Jarvis,Male,Lab hold,Lab,Brexit
+E14000542,E12000003,Barnsley East,South Yorkshire,Yorkshire and The Humber,England,County,Stephanie,Peacock,Female,Lab hold,Lab,Brexit
+E14000543,E12000002,Barrow and Furness,Cumbria,North West,England,County,Simon,Fell,Male,Con gain from Lab Coop,Con,Lab
+E14000544,E12000006,Basildon and Billericay,Essex,East,England,Borough,John,Baron,Male,Con hold,Con,Lab
+E14000545,E12000008,Basingstoke,Hampshire,South East,England,Borough,Maria,Miller,Female,Con hold,Con,Lab
+E14000546,E12000004,Bassetlaw,Nottinghamshire,East Midlands,England,County,Brendan,Clarke-Smith,Male,Con gain from Lab,Con,Lab
+E14000547,E12000009,Bath,Avon,South West,England,Borough,Wera,Hobhouse,Female,LD hold,LD,Con
+E14000548,E12000003,Batley and Spen,West Yorkshire,Yorkshire and The Humber,England,Borough,Tracy,Brabin,Female,Lab hold,Lab,Con
+E14000549,E12000007,Battersea,London,London,England,Borough,Marsha,De Cordova,Female,Lab hold,Lab,Con
+E14000550,E12000008,Beaconsfield,Buckinghamshire,South East,England,County,Joy,Morrissey,Female,Con hold,Con,Ind
+E14000551,E12000007,Beckenham,London,London,England,Borough,Bob,Stewart,Male,Con hold,Con,Lab
+E14000552,E12000006,Bedford,Bedfordshire,East,England,Borough,Mohammad,Yasin,Male,Lab hold,Lab,Con
+N06000001,N92000002,Belfast East,Northern Ireland,Northern Ireland,Northern Ireland,Borough,Gavin,Robinson,Male,DUP hold,DUP,Alliance
+N06000002,N92000002,Belfast North,Northern Ireland,Northern Ireland,Northern Ireland,Borough,John,Finucane,Male,SF gain from DUP,SF,DUP
+N06000003,N92000002,Belfast South,Northern Ireland,Northern Ireland,Northern Ireland,Borough,Claire,Hanna,Female,SDLP gain from DUP,SDLP,DUP
+N06000004,N92000002,Belfast West,Northern Ireland,Northern Ireland,Northern Ireland,Borough,Paul,Maskey,Male,SF hold,SF,PBPA
+E14000553,E12000007,Bermondsey and Old Southwark,London,London,England,Borough,Neil,Coyle,Male,Lab hold,Lab,LD
+S14000008,S92000003,"Berwickshire, Roxburgh and Selkirk",Scotland,Scotland,Scotland,County,John,Lamont,Male,Con hold,Con,SNP
+E14000554,E12000001,Berwick-Upon-Tweed,Northumberland,North East,England,County,Anne-Marie,Trevelyan,Female,Con hold,Con,Lab
+E14000555,E12000007,Bethnal Green and Bow,London,London,England,Borough,Rushanara,Ali,Female,Lab hold,Lab,Con
+E14000556,E12000003,Beverley and Holderness,Humberside,Yorkshire and The Humber,England,County,Graham,Stuart,Male,Con hold,Con,Lab
+E14000557,E12000008,Bexhill and Battle,East Sussex,South East,England,County,Huw,Merriman,Male,Con hold,Con,Lab
+E14000558,E12000007,Bexleyheath and Crayford,London,London,England,Borough,David,Evennett,Male,Con hold,Con,Lab
+E14000559,E12000002,Birkenhead,Merseyside,North West,England,Borough,Mick,Whitley,Male,Lab hold,Lab,Birkenhead Social Justice Party
+E14000560,E12000005,"Birmingham, Edgbaston",West Midlands,West Midlands,England,Borough,Preet Kaur,Gill,Female,Lab hold,Lab,Con
+E14000561,E12000005,"Birmingham, Erdington",West Midlands,West Midlands,England,Borough,Jack,Dromey,Male,Lab hold,Lab,Con
+E14000562,E12000005,"Birmingham, Hall Green",West Midlands,West Midlands,England,Borough,Tahir,Ali,Male,Lab hold,Lab,Con
+E14000563,E12000005,"Birmingham, Hodge Hill",West Midlands,West Midlands,England,Borough,Liam,Byrne,Male,Lab hold,Lab,Con
+E14000564,E12000005,"Birmingham, Ladywood",West Midlands,West Midlands,England,Borough,Shabana,Mahmood,Female,Lab hold,Lab,Con
+E14000565,E12000005,"Birmingham, Northfield",West Midlands,West Midlands,England,Borough,Gary,Sambrook,Male,Con gain from Lab,Con,Lab
+E14000566,E12000005,"Birmingham, Perry Barr",West Midlands,West Midlands,England,Borough,Khalid,Mahmood,Male,Lab hold,Lab,Con
+E14000567,E12000005,"Birmingham, Selly Oak",West Midlands,West Midlands,England,Borough,Stephen,McCabe,Male,Lab hold,Lab,Con
+E14000568,E12000005,"Birmingham, Yardley",West Midlands,West Midlands,England,Borough,Jess,Phillips,Female,Lab hold,Lab,Con
+E14000569,E12000001,Bishop Auckland,Durham,North East,England,County,Dehenna,Davison,Female,Con gain from Lab,Con,Lab
+E14000570,E12000002,Blackburn,Lancashire,North West,England,Borough,Kate,Hollern,Female,Lab hold,Lab,Con
+E14000571,E12000002,Blackley and Broughton,Greater Manchester,North West,England,Borough,Graham,Stringer,Male,Lab hold,Lab,Con
+E14000572,E12000002,Blackpool North and Cleveleys,Lancashire,North West,England,Borough,Paul,Maynard,Male,Con hold,Con,Lab
+E14000573,E12000002,Blackpool South,Lancashire,North West,England,Borough,Scott,Benton,Male,Con gain from Lab,Con,Lab
+W07000072,W92000004,Blaenau Gwent,Gwent and Mid Glamorgan,Wales,Wales,County,Nick,Smith,Male,Lab hold,Lab,Brexit
+E14000574,E12000001,Blaydon,Tyne and Wear,North East,England,Borough,Liz,Twist,Female,Lab hold,Lab,Con
+E14000575,E12000001,Blyth Valley,Northumberland,North East,England,Borough,Ian,Levy,Male,Con gain from Lab,Con,Lab
+E14000576,E12000008,Bognor Regis and Littlehampton,West Sussex,South East,England,County,Nick,Gibb,Male,Con hold,Con,Lab
+E14000577,E12000004,Bolsover,Derbyshire,East Midlands,England,County,Mark,Fletcher,Male,Con gain from Lab,Con,Lab
+E14000578,E12000002,Bolton North East,Greater Manchester,North West,England,Borough,Mark,Logan,Male,Con gain from Lab,Con,Lab
+E14000579,E12000002,Bolton South East,Greater Manchester,North West,England,Borough,Yasmin,Qureshi,Female,Lab hold,Lab,Con
+E14000580,E12000002,Bolton West,Greater Manchester,North West,England,County,Chris,Green,Male,Con hold,Con,Lab
+E14000581,E12000002,Bootle,Merseyside,North West,England,Borough,Peter,Dowd,Male,Lab hold,Lab,Con
+E14000582,E12000004,Boston and Skegness,Lincolnshire,East Midlands,England,County,Matt,Warman,Male,Con hold,Con,Lab
+E14000583,E12000004,Bosworth,Leicestershire,East Midlands,England,County,Luke,Evans,Male,Con hold,Con,Lab
+E14000584,E12000009,Bournemouth East,Dorset,South West,England,Borough,Tobias,Ellwood,Male,Con hold,Con,Lab
+E14000585,E12000009,Bournemouth West,Dorset,South West,England,Borough,Conor,Burns,Male,Con hold,Con,Lab
+E14000586,E12000008,Bracknell,Berkshire,South East,England,County,James,Sunderland,Male,Con hold,Con,Lab
+E14000587,E12000003,Bradford East,West Yorkshire,Yorkshire and The Humber,England,Borough,Imran,Hussain,Male,Lab hold,Lab,Con
+E14000588,E12000003,Bradford South,West Yorkshire,Yorkshire and The Humber,England,Borough,Judith,Cummins,Female,Lab hold,Lab,Con
+E14000589,E12000003,Bradford West,West Yorkshire,Yorkshire and The Humber,England,Borough,Naz,Shah,Female,Lab hold,Lab,Con
+E14000590,E12000006,Braintree,Essex,East,England,County,James,Cleverly,Male,Con hold,Con,Lab
+W07000068,W92000004,Brecon and Radnorshire,Powys,Wales,Wales,County,Fay,Jones,Female,Con hold,Con,LD
+E14000591,E12000007,Brent Central,London,London,England,Borough,Dawn,Butler,Female,Lab hold,Lab,Con
+E14000593,E12000007,Brentford and Isleworth,London,London,England,Borough,Ruth,Cadbury,Female,Lab hold,Lab,Con
+E14000592,E12000007,Brent North,London,London,England,Borough,Barry,Gardiner,Male,Lab hold,Lab,Con
+E14000594,E12000006,Brentwood and Ongar,Essex,East,England,County,Alex,Burghart,Male,Con hold,Con,Lab
+W07000073,W92000004,Bridgend,Gwent and Mid Glamorgan,Wales,Wales,County,Jamie,Wallis,Male,Con gain from Lab,Con,Lab
+E14000595,E12000009,Bridgwater and West Somerset,Somerset,South West,England,County,Ian,Liddell-Grainger,Male,Con hold,Con,Lab
+E14000596,E12000003,Brigg and Goole,Humberside,Yorkshire and The Humber,England,County,Andrew,Percy,Male,Con hold,Con,Lab
+E14000597,E12000008,"Brighton, Kemptown",East Sussex,South East,England,Borough,Lloyd,Russell-Moyle,Male,Lab hold,Lab,Con
+E14000598,E12000008,"Brighton, Pavilion",East Sussex,South East,England,Borough,Caroline,Lucas,Female,Green hold,Green,Lab
+E14000599,E12000009,Bristol East,Avon,South West,England,Borough,Kerry,McCarthy,Female,Lab hold,Lab,Con
+E14000600,E12000009,Bristol North West,Avon,South West,England,Borough,Darren,Jones,Male,Lab hold,Lab,Con
+E14000601,E12000009,Bristol South,Avon,South West,England,Borough,Karin,Smyth,Female,Lab hold,Lab,Con
+E14000602,E12000009,Bristol West,Avon,South West,England,Borough,Thangam,Debbonaire,Female,Lab hold,Lab,Green
+E14000603,E12000006,Broadland,Norfolk,East,England,County,Jerome,Mayhew,Male,Con hold,Con,Lab
+E14000604,E12000007,Bromley and Chislehurst,London,London,England,Borough,Robert,Neill,Male,Con hold,Con,Lab
+E14000605,E12000005,Bromsgrove,Hereford and Worcester,West Midlands,England,County,Sajid,Javid,Male,Con hold,Con,Lab
+E14000606,E12000006,Broxbourne,Hertfordshire,East,England,Borough,Charles,Walker,Male,Con hold,Con,Lab
+E14000607,E12000004,Broxtowe,Nottinghamshire,East Midlands,England,County,Darren,Henry,Male,Con hold,Con,Lab
+E14000608,E12000008,Buckingham,Buckinghamshire,South East,England,County,Greg,Smith,Male,Con gain from Spk,Con,LD
+E14000609,E12000002,Burnley,Lancashire,North West,England,Borough,Antony,Higginbotham,Male,Con gain from Lab,Con,Lab
+E14000610,E12000005,Burton,Staffordshire,West Midlands,England,County,Kate,Griffiths,Female,Con hold,Con,Lab
+E14000611,E12000002,Bury North,Greater Manchester,North West,England,Borough,James,Daly,Male,Con gain from Lab,Con,Lab
+E14000612,E12000002,Bury South,Greater Manchester,North West,England,Borough,Christian,Wakeford,Male,Con gain from Lab,Con,Lab
+E14000613,E12000006,Bury St Edmunds,Suffolk,East,England,County,Jo,Churchill,Female,Con hold,Con,Lab
+W07000076,W92000004,Caerphilly,Gwent and Mid Glamorgan,Wales,Wales,County,Wayne,David,Male,Lab hold,Lab,Con
+S14000009,S92000003,"Caithness, Sutherland and Easter Ross",Scotland,Scotland,Scotland,County,Jamie,Stone,Male,LD hold,LD,SNP
+E14000614,E12000003,Calder Valley,West Yorkshire,Yorkshire and The Humber,England,County,Craig,Whittaker,Male,Con hold,Con,Lab
+E14000615,E12000007,Camberwell and Peckham,London,London,England,Borough,Harriet,Harman,Female,Lab hold,Lab,Con
+E14000616,E12000009,Camborne and Redruth,Cornwall,South West,England,County,George,Eustice,Male,Con hold,Con,Lab
+E14000617,E12000006,Cambridge,Cambridgeshire,East,England,Borough,Daniel,Zeichner,Male,Lab hold,Lab,LD
+E14000618,E12000005,Cannock Chase,Staffordshire,West Midlands,England,County,Amanda,Milling,Female,Con hold,Con,Lab
+E14000619,E12000008,Canterbury,Kent,South East,England,County,Rosemary,Duffield,Female,Lab hold,Lab,Con
+W07000050,W92000004,Cardiff Central,South Glamorgan,Wales,Wales,Borough,Jo,Stevens,Female,Lab hold,Lab,Con
+W07000051,W92000004,Cardiff North,South Glamorgan,Wales,Wales,Borough,Anna,McMorrin,Female,Lab hold,Lab,Con
+W07000080,W92000004,Cardiff South and Penarth,South Glamorgan,Wales,Wales,Borough,Stephen,Doughty,Male,Lab hold,Lab,Con
+W07000079,W92000004,Cardiff West,South Glamorgan,Wales,Wales,Borough,Kevin,Brennan,Male,Lab hold,Lab,Con
+E14000620,E12000002,Carlisle,Cumbria,North West,England,County,John,Stevenson,Male,Con hold,Con,Lab
+W07000067,W92000004,Carmarthen East and Dinefwr,Dyfed,Wales,Wales,County,Jonathan,Edwards,Male,PC hold,PC,Con
+W07000066,W92000004,Carmarthen West and South Pembrokeshire,Dyfed,Wales,Wales,County,Simon,Hart,Male,Con hold,Con,Lab
+E14000621,E12000007,Carshalton and Wallington,London,London,England,Borough,Elliot,Colburn,Male,Con gain from LD,Con,LD
+E14000622,E12000006,Castle Point,Essex,East,England,Borough,Rebecca,Harris,Female,Con hold,Con,Lab
+S14000010,S92000003,Central Ayrshire,Scotland,Scotland,Scotland,County,Philippa,Whitford,Female,SNP hold,SNP,Con
+E14000623,E12000009,Central Devon,Devon,South West,England,County,Mel,Stride,Male,Con hold,Con,Lab
+E14000624,E12000006,Central Suffolk and North Ipswich,Suffolk,East,England,County,Dan,Poulter,Male,Con hold,Con,Lab
+W07000064,W92000004,Ceredigion,Dyfed,Wales,Wales,County,Ben,Lake,Male,PC hold,PC,Con
+E14000625,E12000004,Charnwood,Leicestershire,East Midlands,England,County,Edward,Argar,Male,Con hold,Con,Lab
+E14000626,E12000008,Chatham and Aylesford,Kent,South East,England,County,Tracey,Crouch,Female,Con hold,Con,Lab
+E14000627,E12000002,Cheadle,Greater Manchester,North West,England,Borough,Mary,Robinson,Female,Con hold,Con,LD
+E14000628,E12000006,Chelmsford,Essex,East,England,Borough,Vicky,Ford,Female,Con hold,Con,LD
+E14000629,E12000007,Chelsea and Fulham,London,London,England,Borough,Greg,Hands,Male,Con hold,Con,LD
+E14000630,E12000009,Cheltenham,Gloucestershire,South West,England,Borough,Alex,Chalk,Male,Con hold,Con,LD
+E14000631,E12000008,Chesham and Amersham,Buckinghamshire,South East,England,County,Cheryl,Gillan,Female,Con hold,Con,LD
+E14000632,E12000004,Chesterfield,Derbyshire,East Midlands,England,Borough,Toby,Perkins,Male,Lab hold,Lab,Con
+E14000633,E12000008,Chichester,West Sussex,South East,England,County,Gillian,Keegan,Female,Con hold,Con,LD
+E14000634,E12000007,Chingford and Woodford Green,London,London,England,County,Iain,Duncan Smith,Male,Con hold,Con,Lab
+E14000635,E12000009,Chippenham,Wiltshire,South West,England,County,Michelle,Donelan,Female,Con hold,Con,LD
+E14000636,E12000007,Chipping Barnet,London,London,England,Borough,Theresa,Villiers,Female,Con hold,Con,Lab
+E14000637,E12000002,Chorley,Lancashire,North West,England,County,Lindsay,Hoyle,Male,Spk gain from Lab,Spk,Ind
+E14000638,E12000009,Christchurch,Dorset,South West,England,County,Christopher,Chope,Male,Con hold,Con,LD
+E14000639,E12000007,Cities Of London and Westminster,London,London,England,Borough,Nickie,Aiken,Female,Con hold,Con,LD
+E14000640,E12000002,City Of Chester,Cheshire,North West,England,County,Christian,Matheson,Male,Lab hold,Lab,Con
+E14000641,E12000001,City Of Durham,Durham,North East,England,County,Mary,Foy,Female,Lab hold,Lab,Con
+E14000642,E12000006,Clacton,Essex,East,England,County,Giles,Watling,Male,Con hold,Con,Lab
+E14000643,E12000003,Cleethorpes,Humberside,Yorkshire and The Humber,England,County,Martin,Vickers,Male,Con hold,Con,Lab
+W07000062,W92000004,Clwyd South,Clwyd,Wales,Wales,County,Simon,Baynes,Male,Con gain from Lab,Con,Lab
+W07000059,W92000004,Clwyd West,Clwyd,Wales,Wales,County,David,Jones,Male,Con hold,Con,Lab
+S14000011,S92000003,"Coatbridge, Chryston and Bellshill",Scotland,Scotland,Scotland,Borough,Steven,Bonnar,Male,SNP gain from Lab,SNP,Lab
+E14000644,E12000006,Colchester,Essex,East,England,Borough,Will,Quince,Male,Con hold,Con,Lab
+E14000645,E12000003,Colne Valley,West Yorkshire,Yorkshire and The Humber,England,County,Jason,McCartney,Male,Con gain from Lab,Con,Lab
+E14000646,E12000002,Congleton,Cheshire,North West,England,County,Fiona,Bruce,Female,Con hold,Con,Lab
+E14000647,E12000002,Copeland,Cumbria,North West,England,County,Trudy,Harrison,Female,Con hold,Con,Lab
+E14000648,E12000004,Corby,Northamptonshire,East Midlands,England,County,Tom,Pursglove,Male,Con hold,Con,Lab
+E14000649,E12000005,Coventry North East,West Midlands,West Midlands,England,Borough,Colleen,Fletcher,Female,Lab hold,Lab,Con
+E14000650,E12000005,Coventry North West,West Midlands,West Midlands,England,Borough,Taiwo,Owatemi,Female,Lab hold,Lab,Con
+E14000651,E12000005,Coventry South,West Midlands,West Midlands,England,Borough,Zarah,Sultana,Female,Lab hold,Lab,Con
+E14000652,E12000008,Crawley,West Sussex,South East,England,Borough,Henry,Smith,Male,Con hold,Con,Lab
+E14000653,E12000002,Crewe and Nantwich,Cheshire,North West,England,County,Kieran,Mullan,Male,Con gain from Lab,Con,Lab
+E14000654,E12000007,Croydon Central,London,London,England,Borough,Sarah,Jones,Female,Lab hold,Lab,Con
+E14000655,E12000007,Croydon North,London,London,England,Borough,Steve,Reed,Male,Lab hold,Lab,Con
+E14000656,E12000007,Croydon South,London,London,England,Borough,Chris,Philp,Male,Con hold,Con,Lab
+S14000012,S92000003,"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland,Scotland,Scotland,County,Stuart C.,McDonald,Male,SNP hold,SNP,Lab
+W07000070,W92000004,Cynon Valley,Gwent and Mid Glamorgan,Wales,Wales,County,Beth,Winter,Female,Lab hold,Lab,Con
+E14000657,E12000007,Dagenham and Rainham,London,London,England,Borough,Jon,Cruddas,Male,Lab hold,Lab,Con
+E14000658,E12000001,Darlington,Durham,North East,England,Borough,Peter,Gibson,Male,Con gain from Lab,Con,Lab
+E14000659,E12000008,Dartford,Kent,South East,England,County,Gareth,Johnson,Male,Con hold,Con,Lab
+E14000660,E12000004,Daventry,Northamptonshire,East Midlands,England,County,Chris,Heaton-Harris,Male,Con hold,Con,Lab
+W07000042,W92000004,Delyn,Clwyd,Wales,Wales,County,Rob,Roberts,Male,Con gain from Lab,Con,Lab
+E14000661,E12000002,Denton and Reddish,Greater Manchester,North West,England,Borough,Andrew,Gwynne,Male,Lab hold,Lab,Con
+E14000662,E12000004,Derby North,Derbyshire,East Midlands,England,Borough,Amanda,Solloway,Female,Con gain from Lab,Con,Lab
+E14000664,E12000004,Derbyshire Dales,Derbyshire,East Midlands,England,County,Sarah,Dines,Female,Con hold,Con,Lab
+E14000663,E12000004,Derby South,Derbyshire,East Midlands,England,Borough,Margaret,Beckett,Female,Lab hold,Lab,Con
+E14000665,E12000009,Devizes,Wiltshire,South West,England,County,Danny,Kruger,Male,Con hold,Con,LD
+E14000666,E12000003,Dewsbury,West Yorkshire,Yorkshire and The Humber,England,County,Mark,Eastwood,Male,Con gain from Lab,Con,Lab
+E14000668,E12000003,Doncaster Central,South Yorkshire,Yorkshire and The Humber,England,Borough,Rosie,Winterton,Female,Lab hold,Lab,Con
+E14000669,E12000003,Doncaster North,South Yorkshire,Yorkshire and The Humber,England,County,Edward,Miliband,Male,Lab hold,Lab,Con
+E14000667,E12000003,Don Valley,South Yorkshire,Yorkshire and The Humber,England,County,Nick,Fletcher,Male,Con gain from Lab,Con,Lab
+E14000670,E12000008,Dover,Kent,South East,England,County,Natalie,Elphicke,Female,Con hold,Con,Lab
+E14000671,E12000005,Dudley North,West Midlands,West Midlands,England,Borough,Marco,Longhi,Male,Con gain from Lab,Con,Lab
+E14000672,E12000005,Dudley South,West Midlands,West Midlands,England,Borough,Mike,Wood,Male,Con hold,Con,Lab
+E14000673,E12000007,Dulwich and West Norwood,London,London,England,Borough,Helen,Hayes,Female,Lab hold,Lab,Green
+S14000013,S92000003,Dumfries and Galloway,Scotland,Scotland,Scotland,County,Alister,Jack,Male,Con hold,Con,SNP
+S14000014,S92000003,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,Scotland,Scotland,County,David,Mundell,Male,Con hold,Con,SNP
+S14000015,S92000003,Dundee East,Scotland,Scotland,Scotland,Borough,Stewart,Hosie,Male,SNP hold,SNP,Con
+S14000016,S92000003,Dundee West,Scotland,Scotland,Scotland,Borough,Chris,Law,Male,SNP hold,SNP,Lab
+S14000017,S92000003,Dunfermline and West Fife,Scotland,Scotland,Scotland,County,Douglas,Chapman,Male,SNP hold,SNP,Lab
+W07000061,W92000004,Dwyfor Meirionnydd,Gwynedd,Wales,Wales,County,Liz,Saville Roberts,Female,PC hold,PC,Con
+E14000674,E12000007,Ealing Central and Acton,London,London,England,Borough,Rupa,Huq,Female,Lab hold,Lab,Con
+E14000675,E12000007,Ealing North,London,London,England,Borough,James,Murray,Male,Lab hold,Lab,Con
+E14000676,E12000007,"Ealing, Southall",London,London,England,Borough,Virendra,Sharma,Male,Lab hold,Lab,Con
+E14000677,E12000001,Easington,Durham,North East,England,County,Grahame,Morris,Male,Lab hold,Lab,Con
+N06000005,N92000002,East Antrim,Northern Ireland,Northern Ireland,Northern Ireland,County,Sammy,Wilson,Male,DUP hold,DUP,Alliance
+E14000684,E12000008,Eastbourne,East Sussex,South East,England,Borough,Caroline,Ansell,Female,Con gain from LD,Con,LD
+E14000678,E12000009,East Devon,Devon,South West,England,County,Simon,Jupp,Male,Con hold,Con,Ind
+S14000018,S92000003,East Dunbartonshire,Scotland,Scotland,Scotland,County,Amy,Callaghan,Female,SNP gain from LD,SNP,LD
+E14000679,E12000007,East Ham,London,London,England,Borough,Stephen,Timms,Male,Lab hold,Lab,Con
+E14000680,E12000008,East Hampshire,Hampshire,South East,England,County,Damian,Hinds,Male,Con hold,Con,LD
+S14000019,S92000003,"East Kilbride, Strathaven and Lesmahagow",Scotland,Scotland,Scotland,County,Lisa,Cameron,Female,SNP hold,SNP,Lab
+E14000685,E12000008,Eastleigh,Hampshire,South East,England,Borough,Paul,Holmes,Male,Con hold,Con,LD
+N06000006,N92000002,East Londonderry,Northern Ireland,Northern Ireland,Northern Ireland,County,Gregory,Campbell,Male,DUP hold,DUP,SDLP
+S14000020,S92000003,East Lothian,Scotland,Scotland,Scotland,County,Kenny,MacAskill,Male,SNP gain from Lab,SNP,Lab
+S14000021,S92000003,East Renfrewshire,Scotland,Scotland,Scotland,County,Kirsten,Oswald,Female,SNP gain from Con,SNP,Con
+E14000681,E12000008,East Surrey,Surrey,South East,England,County,Claire,Coutinho,Female,Con hold,Con,LD
+E14000682,E12000008,East Worthing and Shoreham,West Sussex,South East,England,County,Tim,Loughton,Male,Con hold,Con,Lab
+E14000683,E12000003,East Yorkshire,Humberside,Yorkshire and The Humber,England,County,Greg,Knight,Male,Con hold,Con,Lab
+E14000686,E12000002,Eddisbury,Cheshire,North West,England,County,Edward,Timpson,Male,Con hold,Con,Lab
+S14000022,S92000003,Edinburgh East,Scotland,Scotland,Scotland,Borough,Tommy,Sheppard,Male,SNP hold,SNP,Lab
+S14000023,S92000003,Edinburgh North and Leith,Scotland,Scotland,Scotland,Borough,Deidre,Brock,Female,SNP hold,SNP,Lab
+S14000024,S92000003,Edinburgh South,Scotland,Scotland,Scotland,Borough,Ian,Murray,Male,Lab hold,Lab,SNP
+S14000025,S92000003,Edinburgh South West,Scotland,Scotland,Scotland,Borough,Joanna,Cherry,Female,SNP hold,SNP,Con
+S14000026,S92000003,Edinburgh West,Scotland,Scotland,Scotland,Borough,Christine,Jardine,Female,LD hold,LD,SNP
+E14000687,E12000007,Edmonton,London,London,England,Borough,Kate,Osamor,Female,Lab hold,Lab,Con
+E14000688,E12000002,Ellesmere Port and Neston,Cheshire,North West,England,County,Justin,Madders,Male,Lab hold,Lab,Con
+E14000689,E12000003,Elmet and Rothwell,West Yorkshire,Yorkshire and The Humber,England,County,Alec,Shelbrooke,Male,Con hold,Con,Lab
+E14000690,E12000007,Eltham,London,London,England,Borough,Clive,Efford,Male,Lab hold,Lab,Con
+E14000691,E12000007,Enfield North,London,London,England,Borough,Feryal,Clark,Female,Lab hold,Lab,Con
+E14000692,E12000007,"Enfield, Southgate",London,London,England,Borough,Bambos,Charalambous,Male,Lab hold,Lab,Con
+E14000693,E12000006,Epping Forest,Essex,East,England,County,Eleanor,Laing,Female,Con hold,Con,Lab
+E14000694,E12000008,Epsom and Ewell,Surrey,South East,England,Borough,Chris,Grayling,Male,Con hold,Con,LD
+E14000695,E12000004,Erewash,Derbyshire,East Midlands,England,County,Maggie,Throup,Female,Con hold,Con,Lab
+E14000696,E12000007,Erith and Thamesmead,London,London,England,Borough,Abena,Oppong-Asare,Female,Lab hold,Lab,Con
+E14000697,E12000008,Esher and Walton,Surrey,South East,England,Borough,Dominic,Raab,Male,Con hold,Con,LD
+E14000698,E12000009,Exeter,Devon,South West,England,Borough,Ben,Bradshaw,Male,Lab hold,Lab,Con
+S14000028,S92000003,Falkirk,Scotland,Scotland,Scotland,County,John,McNally,Male,SNP hold,SNP,Con
+E14000699,E12000008,Fareham,Hampshire,South East,England,County,Suella,Braverman,Female,Con hold,Con,Lab
+E14000700,E12000008,Faversham and Mid Kent,Kent,South East,England,County,Helen,Whately,Female,Con hold,Con,Lab
+E14000701,E12000007,Feltham and Heston,London,London,England,Borough,Seema,Malhotra,Female,Lab hold,Lab,Con
+N06000007,N92000002,Fermanagh and South Tyrone,Northern Ireland,Northern Ireland,Northern Ireland,County,Michelle,Gildernew,Female,SF hold,SF,UUP
+E14000702,E12000009,Filton and Bradley Stoke,Avon,South West,England,County,Jack,Lopresti,Male,Con hold,Con,Lab
+E14000703,E12000007,Finchley and Golders Green,London,London,England,Borough,Mike,Freer,Male,Con hold,Con,LD
+E14000704,E12000008,Folkestone and Hythe,Kent,South East,England,County,Damian,Collins,Male,Con hold,Con,Lab
+E14000705,E12000009,Forest Of Dean,Gloucestershire,South West,England,County,Mark,Harper,Male,Con hold,Con,Lab
+N06000008,N92000002,Foyle,Northern Ireland,Northern Ireland,Northern Ireland,County,Colum,Eastwood,Male,SDLP gain from SF,SDLP,SF
+E14000706,E12000002,Fylde,Lancashire,North West,England,County,Mark,Menzies,Male,Con hold,Con,Lab
+E14000707,E12000004,Gainsborough,Lincolnshire,East Midlands,England,County,Edward,Leigh,Male,Con hold,Con,Lab
+E14000708,E12000002,Garston and Halewood,Merseyside,North West,England,Borough,Maria,Eagle,Female,Lab hold,Lab,Con
+E14000709,E12000001,Gateshead,Tyne and Wear,North East,England,Borough,Ian,Mearns,Male,Lab hold,Lab,Con
+E14000710,E12000004,Gedling,Nottinghamshire,East Midlands,England,County,Tom,Randall,Male,Con gain from Lab,Con,Lab
+E14000711,E12000008,Gillingham and Rainham,Kent,South East,England,Borough,Rehman,Chishti,Male,Con hold,Con,Lab
+S14000029,S92000003,Glasgow Central,Scotland,Scotland,Scotland,Borough,Alison,Thewliss,Female,SNP hold,SNP,Lab
+S14000030,S92000003,Glasgow East,Scotland,Scotland,Scotland,Borough,David,Linden,Male,SNP hold,SNP,Lab
+S14000031,S92000003,Glasgow North,Scotland,Scotland,Scotland,Borough,Patrick,Grady,Male,SNP hold,SNP,Lab
+S14000032,S92000003,Glasgow North East,Scotland,Scotland,Scotland,Borough,Anne,McLaughlin,Female,SNP gain from Lab Coop,SNP,Lab
+S14000033,S92000003,Glasgow North West,Scotland,Scotland,Scotland,Borough,Carol,Monaghan,Female,SNP hold,SNP,Lab
+S14000034,S92000003,Glasgow South,Scotland,Scotland,Scotland,Borough,Stewart Malcolm,McDonald,Male,SNP hold,SNP,Lab
+S14000035,S92000003,Glasgow South West,Scotland,Scotland,Scotland,Borough,Chris,Stephens,Male,SNP hold,SNP,Lab
+S14000036,S92000003,Glenrothes,Scotland,Scotland,Scotland,County,Peter,Grant,Male,SNP hold,SNP,Lab
+E14000712,E12000009,Gloucester,Gloucestershire,South West,England,Borough,Richard,Graham,Male,Con hold,Con,Lab
+S14000037,S92000003,Gordon,Scotland,Scotland,Scotland,County,Richard,Thomson,Male,SNP gain from Con,SNP,Con
+E14000713,E12000008,Gosport,Hampshire,South East,England,Borough,Caroline,Dinenage,Female,Con hold,Con,Lab
+W07000046,W92000004,Gower,West Glamorgan,Wales,Wales,County,Tonia,Antoniazzi,Female,Lab hold,Lab,Con
+E14000714,E12000004,Grantham and Stamford,Lincolnshire,East Midlands,England,County,Gareth,Davies,Male,Con hold,Con,Lab
+E14000715,E12000008,Gravesham,Kent,South East,England,County,Adam,Holloway,Male,Con hold,Con,Lab
+E14000716,E12000003,Great Grimsby,Humberside,Yorkshire and The Humber,England,Borough,Lia,Nici,Female,Con gain from Lab,Con,Lab
+E14000717,E12000006,Great Yarmouth,Norfolk,East,England,County,Brandon,Lewis,Male,Con hold,Con,Lab
+E14000718,E12000007,Greenwich and Woolwich,London,London,England,Borough,Matthew,Pennycook,Male,Lab hold,Lab,Con
+E14000719,E12000008,Guildford,Surrey,South East,England,County,Angela,Richardson,Female,Con hold,Con,LD
+E14000720,E12000007,Hackney North and Stoke Newington,London,London,England,Borough,Diane,Abbott,Female,Lab hold,Lab,Con
+E14000721,E12000007,Hackney South and Shoreditch,London,London,England,Borough,Meg,Hillier,Female,Lab hold,Lab,Con
+E14000722,E12000005,Halesowen and Rowley Regis,West Midlands,West Midlands,England,Borough,James,Morris,Male,Con hold,Con,Lab
+E14000723,E12000003,Halifax,West Yorkshire,Yorkshire and The Humber,England,Borough,Holly,Lynch,Female,Lab hold,Lab,Con
+E14000724,E12000003,Haltemprice and Howden,Humberside,Yorkshire and The Humber,England,County,David,Davis,Male,Con hold,Con,Lab
+E14000725,E12000002,Halton,Cheshire,North West,England,County,Derek,Twigg,Male,Lab hold,Lab,Con
+E14000726,E12000007,Hammersmith,London,London,England,Borough,Andy,Slaughter,Male,Lab hold,Lab,Con
+E14000727,E12000007,Hampstead and Kilburn,London,London,England,Borough,Tulip,Siddiq,Female,Lab hold,Lab,Con
+E14000728,E12000004,Harborough,Leicestershire,East Midlands,England,County,Neil,O'Brien,Male,Con hold,Con,Lab
+E14000729,E12000006,Harlow,Essex,East,England,County,Robert,Halfon,Male,Con hold,Con,Lab
+E14000730,E12000003,Harrogate and Knaresborough,North Yorkshire,Yorkshire and The Humber,England,County,Andrew,Jones,Male,Con hold,Con,LD
+E14000731,E12000007,Harrow East,London,London,England,Borough,Bob,Blackman,Male,Con hold,Con,Lab
+E14000732,E12000007,Harrow West,London,London,England,Borough,Gareth,Thomas,Male,Lab hold,Lab,Con
+E14000733,E12000001,Hartlepool,Cleveland,North East,England,Borough,Mike,Hill,Male,Lab hold,Lab,Con
+E14000734,E12000006,Harwich and North Essex,Essex,East,England,County,Bernard,Jenkin,Male,Con hold,Con,Lab
+E14000735,E12000008,Hastings and Rye,East Sussex,South East,England,County,Sally-Ann,Hart,Female,Con hold,Con,Lab
+E14000736,E12000008,Havant,Hampshire,South East,England,Borough,Alan,Mak,Male,Con hold,Con,Lab
+E14000737,E12000007,Hayes and Harlington,London,London,England,Borough,John,McDonnell,Male,Lab hold,Lab,Con
+E14000738,E12000002,Hazel Grove,Greater Manchester,North West,England,County,William,Wragg,Male,Con hold,Con,LD
+E14000739,E12000006,Hemel Hempstead,Hertfordshire,East,England,County,Mike,Penning,Male,Con hold,Con,Lab
+E14000740,E12000003,Hemsworth,West Yorkshire,Yorkshire and The Humber,England,County,Jon,Trickett,Male,Lab hold,Lab,Con
+E14000741,E12000007,Hendon,London,London,England,Borough,Matthew,Offord,Male,Con hold,Con,Lab
+E14000742,E12000008,Henley,Oxfordshire,South East,England,County,John,Howell,Male,Con hold,Con,LD
+E14000743,E12000005,Hereford and South Herefordshire,Hereford and Worcester,West Midlands,England,County,Jesse,Norman,Male,Con hold,Con,Lab
+E14000744,E12000006,Hertford and Stortford,Hertfordshire,East,England,County,Julie,Marson,Female,Con hold,Con,Lab
+E14000745,E12000006,Hertsmere,Hertfordshire,East,England,County,Oliver,Dowden,Male,Con hold,Con,Lab
+E14000746,E12000001,Hexham,Northumberland,North East,England,County,Guy,Opperman,Male,Con hold,Con,Lab
+E14000747,E12000002,Heywood and Middleton,Greater Manchester,North West,England,County,Chris,Clarkson,Male,Con gain from Lab,Con,Lab
+E14000748,E12000004,High Peak,Derbyshire,East Midlands,England,County,Robert,Largan,Male,Con gain from Lab,Con,Lab
+E14000749,E12000006,Hitchin and Harpenden,Hertfordshire,East,England,County,Bim,Afolami,Male,Con hold,Con,LD
+E14000750,E12000007,Holborn and St Pancras,London,London,England,Borough,Keir,Starmer,Male,Lab hold,Lab,Con
+E14000751,E12000007,Hornchurch and Upminster,London,London,England,Borough,Julia,Lopez,Female,Con hold,Con,Lab
+E14000752,E12000007,Hornsey and Wood Green,London,London,England,Borough,Catherine,West,Female,Lab hold,Lab,LD
+E14000753,E12000008,Horsham,West Sussex,South East,England,County,Jeremy,Quin,Male,Con hold,Con,LD
+E14000754,E12000001,Houghton and Sunderland South,Tyne and Wear,North East,England,Borough,Bridget,Phillipson,Female,Lab hold,Lab,Con
+E14000755,E12000008,Hove,East Sussex,South East,England,Borough,Peter,Kyle,Male,Lab hold,Lab,Con
+E14000756,E12000003,Huddersfield,West Yorkshire,Yorkshire and The Humber,England,Borough,Barry,Sheerman,Male,Lab hold,Lab,Con
+E14000757,E12000006,Huntingdon,Cambridgeshire,East,England,County,Jonathan,Djanogly,Male,Con hold,Con,Lab
+E14000758,E12000002,Hyndburn,Lancashire,North West,England,Borough,Sara,Britcliffe,Female,Con gain from Lab,Con,Lab
+E14000759,E12000007,Ilford North,London,London,England,Borough,Wes,Streeting,Male,Lab hold,Lab,Con
+E14000760,E12000007,Ilford South,London,London,England,Borough,Sam,Tarry,Male,Lab hold,Lab,Con
+S14000038,S92000003,Inverclyde,Scotland,Scotland,Scotland,County,Ronnie,Cowan,Male,SNP hold,SNP,Lab
+S14000039,S92000003,"Inverness, Nairn, Badenoch and Strathspey",Scotland,Scotland,Scotland,County,Drew,Hendry,Male,SNP hold,SNP,Con
+E14000761,E12000006,Ipswich,Suffolk,East,England,Borough,Tom,Hunt,Male,Con gain from Lab,Con,Lab
+E14000762,E12000008,Isle Of Wight,Isle of Wight,South East,England,County,Bob,Seely,Male,Con hold,Con,Lab
+E14000763,E12000007,Islington North,London,London,England,Borough,Jeremy,Corbyn,Male,Lab hold,Lab,LD
+E14000764,E12000007,Islington South and Finsbury,London,London,England,Borough,Emily,Thornberry,Female,Lab hold,Lab,LD
+W07000077,W92000004,Islwyn,Gwent and Mid Glamorgan,Wales,Wales,County,Chris,Evans,Male,Lab hold,Lab,Con
+E14000765,E12000001,Jarrow,Tyne and Wear,North East,England,Borough,Kate,Osborne,Female,Lab hold,Lab,Con
+E14000766,E12000003,Keighley,West Yorkshire,Yorkshire and The Humber,England,County,Robbie,Moore,Male,Con gain from Lab,Con,Lab
+E14000767,E12000005,Kenilworth and Southam,Warwickshire,West Midlands,England,County,Jeremy,Wright,Male,Con hold,Con,LD
+E14000768,E12000007,Kensington,London,London,England,Borough,Felicity,Buchan,Female,Con gain from Lab,Con,Lab
+E14000769,E12000004,Kettering,Northamptonshire,East Midlands,England,County,Philip,Hollobone,Male,Con hold,Con,Lab
+S14000040,S92000003,Kilmarnock and Loudoun,Scotland,Scotland,Scotland,County,Alan,Brown,Male,SNP hold,SNP,Con
+E14000770,E12000007,Kingston and Surbiton,London,London,England,Borough,Edward,Davey,Male,LD hold,LD,Con
+E14000771,E12000003,Kingston upon Hull East,Humberside,Yorkshire and The Humber,England,Borough,Karl,Turner,Male,Lab hold,Lab,Con
+E14000772,E12000003,Kingston upon Hull North,Humberside,Yorkshire and The Humber,England,Borough,Diana,Johnson,Female,Lab hold,Lab,Con
+E14000773,E12000003,Kingston upon Hull West and Hessle,Humberside,Yorkshire and The Humber,England,Borough,Emma,Hardy,Female,Lab hold,Lab,Con
+E14000774,E12000009,Kingswood,Avon,South West,England,Borough,Chris,Skidmore,Male,Con hold,Con,Lab
+S14000041,S92000003,Kirkcaldy and Cowdenbeath,Scotland,Scotland,Scotland,County,Neale,Hanvey,Male,SNP gain from Lab,SNP,Lab
+E14000775,E12000002,Knowsley,Merseyside,North West,England,Borough,George,Howarth,Male,Lab hold,Lab,Con
+N06000009,N92000002,Lagan Valley,Northern Ireland,Northern Ireland,Northern Ireland,County,Jeffrey M.,Donaldson,Male,DUP hold,DUP,Alliance
+S14000042,S92000003,Lanark and Hamilton East,Scotland,Scotland,Scotland,County,Angela,Crawley,Female,SNP hold,SNP,Con
+E14000776,E12000002,Lancaster and Fleetwood,Lancashire,North West,England,County,Cat,Smith,Female,Lab hold,Lab,Con
+E14000777,E12000003,Leeds Central,West Yorkshire,Yorkshire and The Humber,England,Borough,Hilary,Benn,Male,Lab hold,Lab,Con
+E14000778,E12000003,Leeds East,West Yorkshire,Yorkshire and The Humber,England,Borough,Richard,Burgon,Male,Lab hold,Lab,Con
+E14000779,E12000003,Leeds North East,West Yorkshire,Yorkshire and The Humber,England,Borough,Fabian,Hamilton,Male,Lab hold,Lab,Con
+E14000780,E12000003,Leeds North West,West Yorkshire,Yorkshire and The Humber,England,Borough,Alex,Sobel,Male,Lab hold,Lab,Con
+E14000781,E12000003,Leeds West,West Yorkshire,Yorkshire and The Humber,England,Borough,Rachel,Reeves,Female,Lab hold,Lab,Con
+E14000782,E12000004,Leicester East,Leicestershire,East Midlands,England,Borough,Claudia,Webbe,Female,Lab hold,Lab,Con
+E14000783,E12000004,Leicester South,Leicestershire,East Midlands,England,Borough,Jonathan,Ashworth,Male,Lab hold,Lab,Con
+E14000784,E12000004,Leicester West,Leicestershire,East Midlands,England,Borough,Liz,Kendall,Female,Lab hold,Lab,Con
+E14000785,E12000002,Leigh,Greater Manchester,North West,England,County,James,Grundy,Male,Con gain from Lab Coop,Con,Lab
+E14000786,E12000008,Lewes,East Sussex,South East,England,County,Maria,Caulfield,Female,Con hold,Con,LD
+E14000789,E12000007,"Lewisham, Deptford",London,London,England,Borough,Vicky,Foxcroft,Female,Lab hold,Lab,Con
+E14000787,E12000007,Lewisham East,London,London,England,Borough,Janet,Daby,Female,Lab hold,Lab,Con
+E14000788,E12000007,Lewisham West and Penge,London,London,England,Borough,Ellie,Reeves,Female,Lab hold,Lab,Con
+E14000790,E12000007,Leyton and Wanstead,London,London,England,County,John,Cryer,Male,Lab hold,Lab,Con
+E14000791,E12000005,Lichfield,Staffordshire,West Midlands,England,County,Michael,Fabricant,Male,Con hold,Con,Lab
+E14000792,E12000004,Lincoln,Lincolnshire,East Midlands,England,Borough,Karl,McCartney,Male,Con gain from Lab,Con,Lab
+S14000043,S92000003,Linlithgow and East Falkirk,Scotland,Scotland,Scotland,County,Martyn,Day,Male,SNP hold,SNP,Con
+E14000793,E12000002,"Liverpool, Riverside",Merseyside,North West,England,Borough,Kim,Johnson,Female,Lab hold,Lab,Con
+E14000794,E12000002,"Liverpool, Walton",Merseyside,North West,England,Borough,Dan,Carden,Male,Lab hold,Lab,Con
+E14000795,E12000002,"Liverpool, Wavertree",Merseyside,North West,England,Borough,Paula,Barker,Female,Lab hold,Lab,Con
+E14000796,E12000002,"Liverpool, West Derby",Merseyside,North West,England,Borough,Ian,Byrne,Male,Lab hold,Lab,Con
+S14000044,S92000003,Livingston,Scotland,Scotland,Scotland,County,Hannah,Bardell,Female,SNP hold,SNP,Con
+W07000045,W92000004,Llanelli,Dyfed,Wales,Wales,County,Nia,Griffith,Female,Lab hold,Lab,Con
+E14000797,E12000004,Loughborough,Leicestershire,East Midlands,England,County,Jane,Hunt,Female,Con hold,Con,Lab
+E14000798,E12000004,Louth and Horncastle,Lincolnshire,East Midlands,England,County,Victoria,Atkins,Female,Con hold,Con,Lab
+E14000799,E12000005,Ludlow,Shropshire,West Midlands,England,County,Philip,Dunne,Male,Con hold,Con,LD
+E14000800,E12000006,Luton North,Bedfordshire,East,England,Borough,Sarah,Owen,Female,Lab hold,Lab,Con
+E14000801,E12000006,Luton South,Bedfordshire,East,England,Borough,Rachel,Hopkins,Female,Lab hold,Lab,Con
+E14000802,E12000002,Macclesfield,Cheshire,North West,England,County,David,Rutley,Male,Con hold,Con,Lab
+E14000803,E12000008,Maidenhead,Berkshire,South East,England,County,Theresa,May,Female,Con hold,Con,LD
+E14000804,E12000008,Maidstone and The Weald,Kent,South East,England,County,Helen,Grant,Female,Con hold,Con,Lab
+E14000805,E12000002,Makerfield,Greater Manchester,North West,England,County,Yvonne,Fovargue,Female,Lab hold,Lab,Con
+E14000806,E12000006,Maldon,Essex,East,England,County,John,Whittingdale,Male,Con hold,Con,Lab
+E14000807,E12000002,Manchester Central,Greater Manchester,North West,England,Borough,Lucy,Powell,Female,Lab hold,Lab,Con
+E14000808,E12000002,"Manchester, Gorton",Greater Manchester,North West,England,Borough,Afzal,Khan,Male,Lab hold,Lab,Con
+E14000809,E12000002,"Manchester, Withington",Greater Manchester,North West,England,Borough,Jeff,Smith,Male,Lab hold,Lab,LD
+E14000810,E12000004,Mansfield,Nottinghamshire,East Midlands,England,County,Ben,Bradley,Male,Con hold,Con,Lab
+E14000811,E12000008,Meon Valley,Hampshire,South East,England,County,Flick,Drummond,Female,Con hold,Con,LD
+E14000812,E12000005,Meriden,West Midlands,West Midlands,England,County,Saqib,Bhatti,Male,Con hold,Con,Lab
+W07000071,W92000004,Merthyr Tydfil and Rhymney,Gwent and Mid Glamorgan,Wales,Wales,County,Gerald,Jones,Male,Lab hold,Lab,Con
+E14000813,E12000006,Mid Bedfordshire,Bedfordshire,East,England,County,Nadine,Dorries,Female,Con hold,Con,Lab
+E14000814,E12000004,Mid Derbyshire,Derbyshire,East Midlands,England,County,Pauline,Latham,Female,Con hold,Con,Lab
+E14000819,E12000001,Middlesbrough,Cleveland,North East,England,Borough,Andy,McDonald,Male,Lab hold,Lab,Con
+E14000820,E12000001,Middlesbrough South and East Cleveland,Cleveland,North East,England,County,Simon,Clarke,Male,Con hold,Con,Lab
+E14000815,E12000009,Mid Dorset and North Poole,Dorset,South West,England,County,Michael,Tomlinson,Male,Con hold,Con,LD
+S14000045,S92000003,Midlothian,Scotland,Scotland,Scotland,County,Owen,Thompson,Male,SNP gain from Lab,SNP,Lab
+E14000816,E12000006,Mid Norfolk,Norfolk,East,England,County,George,Freeman,Male,Con hold,Con,Lab
+E14000817,E12000008,Mid Sussex,West Sussex,South East,England,County,Mims,Davies,Female,Con hold,Con,LD
+N06000010,N92000002,Mid Ulster,Northern Ireland,Northern Ireland,Northern Ireland,County,Francie,Molloy,Male,SF hold,SF,DUP
+E14000818,E12000005,Mid Worcestershire,Hereford and Worcester,West Midlands,England,County,Nigel,Huddleston,Male,Con hold,Con,Lab
+E14000821,E12000008,Milton Keynes North,Buckinghamshire,South East,England,County,Ben,Everitt,Male,Con hold,Con,Lab
+E14000822,E12000008,Milton Keynes South,Buckinghamshire,South East,England,Borough,Iain,Stewart,Male,Con hold,Con,Lab
+E14000823,E12000007,Mitcham and Morden,London,London,England,Borough,Siobhain,McDonagh,Female,Lab hold,Lab,Con
+E14000824,E12000008,Mole Valley,Surrey,South East,England,County,Paul,Beresford,Male,Con hold,Con,LD
+W07000054,W92000004,Monmouth,Gwent and Mid Glamorgan,Wales,Wales,County,David T. C.,Davies,Male,Con hold,Con,Lab
+W07000063,W92000004,Montgomeryshire,Powys,Wales,Wales,County,Craig,Williams,Male,Con hold,Con,LD
+S14000046,S92000003,Moray,Scotland,Scotland,Scotland,County,Douglas,Ross,Male,Con hold,Con,SNP
+E14000825,E12000002,Morecambe and Lunesdale,Lancashire,North West,England,County,David,Morris,Male,Con hold,Con,Lab
+E14000826,E12000003,Morley and Outwood,West Yorkshire,Yorkshire and The Humber,England,County,Andrea,Jenkyns,Female,Con hold,Con,Lab
+S14000047,S92000003,Motherwell and Wishaw,Scotland,Scotland,Scotland,Borough,Marion,Fellows,Female,SNP hold,SNP,Lab
+S14000027,S92000003,Na h-Eileanan An Iar,Scotland,Scotland,Scotland,County,Angus Brendan,MacNeil,Male,SNP hold,SNP,Lab
+W07000069,W92000004,Neath,West Glamorgan,Wales,Wales,County,Christina,Rees,Female,Lab hold,Lab,Con
+E14000829,E12000004,Newark,Nottinghamshire,East Midlands,England,County,Robert,Jenrick,Male,Con hold,Con,Lab
+E14000830,E12000008,Newbury,Berkshire,South East,England,County,Laura,Farris,Female,Con hold,Con,LD
+E14000834,E12000005,Newcastle-Under-Lyme,Staffordshire,West Midlands,England,Borough,Aaron,Bell,Male,Con gain from Lab,Con,Lab
+E14000831,E12000001,Newcastle Upon Tyne Central,Tyne and Wear,North East,England,Borough,Chi,Onwurah,Female,Lab hold,Lab,Con
+E14000832,E12000001,Newcastle Upon Tyne East,Tyne and Wear,North East,England,Borough,Nicholas,Brown,Male,Lab hold,Lab,Con
+E14000833,E12000001,Newcastle Upon Tyne North,Tyne and Wear,North East,England,Borough,Catherine,McKinnell,Female,Lab hold,Lab,Con
+E14000827,E12000008,New Forest East,Hampshire,South East,England,County,Julian,Lewis,Male,Con hold,Con,Lab
+E14000828,E12000008,New Forest West,Hampshire,South East,England,County,Desmond,Swayne,Male,Con hold,Con,LD
+W07000055,W92000004,Newport East,Gwent and Mid Glamorgan,Wales,Wales,County,Jessica,Morden,Female,Lab hold,Lab,Con
+W07000056,W92000004,Newport West,Gwent and Mid Glamorgan,Wales,Wales,County,Ruth,Jones,Female,Lab hold,Lab,Con
+N06000011,N92000002,Newry and Armagh,Northern Ireland,Northern Ireland,Northern Ireland,County,Mickey,Brady,Male,SF hold,SF,DUP
+E14000835,E12000009,Newton Abbot,Devon,South West,England,County,Anne Marie,Morris,Female,Con hold,Con,LD
+E14000836,E12000003,"Normanton, Pontefract and Castleford",West Yorkshire,Yorkshire and The Humber,England,County,Yvette,Cooper,Female,Lab hold,Lab,Con
+E14000861,E12000004,Northampton North,Northamptonshire,East Midlands,England,Borough,Michael,Ellis,Male,Con hold,Con,Lab
+E14000862,E12000004,Northampton South,Northamptonshire,East Midlands,England,Borough,Andrew,Lewer,Male,Con hold,Con,Lab
+N06000012,N92000002,North Antrim,Northern Ireland,Northern Ireland,Northern Ireland,County,Ian,Paisley,Male,DUP hold,DUP,UUP
+S14000048,S92000003,North Ayrshire and Arran,Scotland,Scotland,Scotland,County,Patricia,Gibson,Female,SNP hold,SNP,Con
+E14000837,E12000009,North Cornwall,Cornwall,South West,England,County,Scott,Mann,Male,Con hold,Con,LD
+E14000838,E12000009,North Devon,Devon,South West,England,County,Selaine,Saxby,Female,Con hold,Con,LD
+E14000839,E12000009,North Dorset,Dorset,South West,England,County,Simon,Hoare,Male,Con hold,Con,LD
+N06000013,N92000002,North Down,Northern Ireland,Northern Ireland,Northern Ireland,County,Stephen,Farry,Male,Alliance gain from Ind,Alliance,DUP
+E14000840,E12000001,North Durham,Durham,North East,England,County,Kevan,Jones,Male,Lab hold,Lab,Con
+E14000841,E12000006,North East Bedfordshire,Bedfordshire,East,England,County,Richard,Fuller,Male,Con hold,Con,Lab
+E14000842,E12000006,North East Cambridgeshire,Cambridgeshire,East,England,County,Stephen,Barclay,Male,Con hold,Con,Lab
+E14000843,E12000004,North East Derbyshire,Derbyshire,East Midlands,England,County,Lee,Rowley,Male,Con hold,Con,Lab
+S14000049,S92000003,North East Fife,Scotland,Scotland,Scotland,County,Wendy,Chamberlain,Female,LD gain from SNP,LD,SNP
+E14000844,E12000008,North East Hampshire,Hampshire,South East,England,County,Ranil,Jayawardena,Male,Con hold,Con,LD
+E14000845,E12000006,North East Hertfordshire,Hertfordshire,East,England,County,Oliver,Heald,Male,Con hold,Con,Lab
+E14000846,E12000009,North East Somerset,Avon,South West,England,County,Jacob,Rees-Mogg,Male,Con hold,Con,Lab
+E14000847,E12000005,North Herefordshire,Hereford and Worcester,West Midlands,England,County,Bill,Wiggin,Male,Con hold,Con,LD
+E14000848,E12000006,North Norfolk,Norfolk,East,England,County,Duncan,Baker,Male,Con gain from LD,Con,LD
+E14000849,E12000005,North Shropshire,Shropshire,West Midlands,England,County,Owen,Paterson,Male,Con hold,Con,Lab
+E14000850,E12000009,North Somerset,Avon,South West,England,County,Liam,Fox,Male,Con hold,Con,Lab
+E14000851,E12000009,North Swindon,Wiltshire,South West,England,County,Justin,Tomlinson,Male,Con hold,Con,Lab
+E14000852,E12000008,North Thanet,Kent,South East,England,County,Roger,Gale,Male,Con hold,Con,Lab
+E14000853,E12000001,North Tyneside,Tyne and Wear,North East,England,Borough,Mary,Glindon,Female,Lab hold,Lab,Con
+E14000854,E12000005,North Warwickshire,Warwickshire,West Midlands,England,County,Craig,Tracey,Male,Con hold,Con,Lab
+E14000855,E12000006,North West Cambridgeshire,Cambridgeshire,East,England,County,Shailesh,Vara,Male,Con hold,Con,Lab
+E14000856,E12000001,North West Durham,Durham,North East,England,County,Richard,Holden,Male,Con gain from Lab,Con,Lab
+E14000857,E12000008,North West Hampshire,Hampshire,South East,England,County,Kit,Malthouse,Male,Con hold,Con,LD
+E14000858,E12000004,North West Leicestershire,Leicestershire,East Midlands,England,County,Andrew,Bridgen,Male,Con hold,Con,Lab
+E14000859,E12000006,North West Norfolk,Norfolk,East,England,County,James,Wild,Male,Con hold,Con,Lab
+E14000860,E12000009,North Wiltshire,Wiltshire,South West,England,County,James,Gray,Male,Con hold,Con,LD
+E14000863,E12000006,Norwich North,Norfolk,East,England,Borough,Chloe,Smith,Female,Con hold,Con,Lab
+E14000864,E12000006,Norwich South,Norfolk,East,England,Borough,Clive,Lewis,Male,Lab hold,Lab,Con
+E14000865,E12000004,Nottingham East,Nottinghamshire,East Midlands,England,Borough,Nadia,Whittome,Female,Lab hold,Lab,Con
+E14000866,E12000004,Nottingham North,Nottinghamshire,East Midlands,England,Borough,Alex,Norris,Male,Lab hold,Lab,Con
+E14000867,E12000004,Nottingham South,Nottinghamshire,East Midlands,England,Borough,Lilian,Greenwood,Female,Lab hold,Lab,Con
+E14000868,E12000005,Nuneaton,Warwickshire,West Midlands,England,County,Marcus,Jones,Male,Con hold,Con,Lab
+S14000050,S92000003,Ochil and South Perthshire,Scotland,Scotland,Scotland,County,John,Nicolson,Male,SNP gain from Con,SNP,Con
+W07000074,W92000004,Ogmore,Gwent and Mid Glamorgan,Wales,Wales,County,Chris,Elmore,Male,Lab hold,Lab,Con
+E14000869,E12000007,Old Bexley and Sidcup,London,London,England,Borough,James,Brokenshire,Male,Con hold,Con,Lab
+E14000870,E12000002,Oldham East and Saddleworth,Greater Manchester,North West,England,County,Debbie,Abrahams,Female,Lab hold,Lab,Con
+E14000871,E12000002,Oldham West and Royton,Greater Manchester,North West,England,Borough,Jim,McMahon,Male,Lab hold,Lab,Con
+S14000051,S92000003,Orkney and Shetland,Scotland,Scotland,Scotland,County,Alistair,Carmichael,Male,LD hold,LD,SNP
+E14000872,E12000007,Orpington,London,London,England,Borough,Gareth,Bacon,Male,Con hold,Con,Lab
+E14000873,E12000008,Oxford East,Oxfordshire,South East,England,Borough,Anneliese,Dodds,Female,Lab hold,Lab,Con
+E14000874,E12000008,Oxford West and Abingdon,Oxfordshire,South East,England,County,Layla,Moran,Female,LD hold,LD,Con
+S14000052,S92000003,Paisley and Renfrewshire North,Scotland,Scotland,Scotland,County,Gavin,Newlands,Male,SNP hold,SNP,Lab
+S14000053,S92000003,Paisley and Renfrewshire South,Scotland,Scotland,Scotland,County,Mhairi,Black,Female,SNP hold,SNP,Lab
+E14000875,E12000002,Pendle,Lancashire,North West,England,Borough,Andrew,Stephenson,Male,Con hold,Con,Lab
+E14000876,E12000003,Penistone and Stocksbridge,South Yorkshire,Yorkshire and The Humber,England,County,Miriam,Cates,Female,Con gain from Lab,Con,Lab
+E14000877,E12000002,Penrith and The Border,Cumbria,North West,England,County,Neil,Hudson,Male,Con hold,Con,Lab
+S14000054,S92000003,Perth and North Perthshire,Scotland,Scotland,Scotland,County,Pete,Wishart,Male,SNP hold,SNP,Con
+E14000878,E12000006,Peterborough,Cambridgeshire,East,England,Borough,Paul,Bristow,Male,Con gain from Lab,Con,Lab
+E14000879,E12000009,"Plymouth, Moor View",Devon,South West,England,Borough,Johnny,Mercer,Male,Con hold,Con,Lab
+E14000880,E12000009,"Plymouth, Sutton and Devonport",Devon,South West,England,Borough,Luke,Pollard,Male,Lab hold,Lab,Con
+W07000075,W92000004,Pontypridd,Gwent and Mid Glamorgan,Wales,Wales,County,Alex,Davies-Jones,Female,Lab hold,Lab,Con
+E14000881,E12000009,Poole,Dorset,South West,England,Borough,Robert,Syms,Male,Con hold,Con,Lab
+E14000882,E12000007,Poplar and Limehouse,London,London,England,Borough,Apsana,Begum,Female,Lab hold,Lab,Con
+E14000883,E12000008,Portsmouth North,Hampshire,South East,England,Borough,Penny,Mordaunt,Female,Con hold,Con,Lab
+E14000884,E12000008,Portsmouth South,Hampshire,South East,England,Borough,Stephen,Morgan,Male,Lab hold,Lab,Con
+W07000065,W92000004,Preseli Pembrokeshire,Dyfed,Wales,Wales,County,Stephen,Crabb,Male,Con hold,Con,Lab
+E14000885,E12000002,Preston,Lancashire,North West,England,Borough,Mark,Hendrick,Male,Lab hold,Lab,Con
+E14000886,E12000003,Pudsey,West Yorkshire,Yorkshire and The Humber,England,Borough,Stuart,Andrew,Male,Con hold,Con,Lab
+E14000887,E12000007,Putney,London,London,England,Borough,Fleur,Anderson,Female,Lab gain from Con,Lab,Con
+E14000888,E12000006,Rayleigh and Wickford,Essex,East,England,County,Mark,Francois,Male,Con hold,Con,Lab
+E14000889,E12000008,Reading East,Berkshire,South East,England,Borough,Mathew,Rodda,Male,Lab hold,Lab,Con
+E14000890,E12000008,Reading West,Berkshire,South East,England,County,Alok,Sharma,Male,Con hold,Con,Lab
+E14000891,E12000001,Redcar,Cleveland,North East,England,Borough,Jacob,Young,Male,Con gain from Lab Coop,Con,Lab
+E14000892,E12000005,Redditch,Hereford and Worcester,West Midlands,England,County,Rachel,Maclean,Female,Con hold,Con,Lab
+E14000893,E12000008,Reigate,Surrey,South East,England,Borough,Crispin,Blunt,Male,Con hold,Con,Lab
+W07000052,W92000004,Rhondda,Gwent and Mid Glamorgan,Wales,Wales,County,Chris,Bryant,Male,Lab hold,Lab,Con
+E14000894,E12000002,Ribble Valley,Lancashire,North West,England,County,Nigel,Evans,Male,Con hold,Con,Lab
+E14000896,E12000007,Richmond Park,London,London,England,Borough,Sarah,Olney,Female,LD gain from Con,LD,Con
+E14000895,E12000003,Richmond (Yorks),North Yorkshire,Yorkshire and The Humber,England,County,Rishi,Sunak,Male,Con hold,Con,Lab
+E14000897,E12000002,Rochdale,Greater Manchester,North West,England,County,Tony,Lloyd,Male,Lab hold,Lab,Con
+E14000898,E12000008,Rochester and Strood,Kent,South East,England,County,Kelly,Tolhurst,Female,Con hold,Con,Lab
+E14000899,E12000006,Rochford and Southend East,Essex,East,England,County,James,Duddridge,Male,Con hold,Con,Lab
+E14000900,E12000007,Romford,London,London,England,Borough,Andrew,Rosindell,Male,Con hold,Con,Lab
+E14000901,E12000008,Romsey and Southampton North,Hampshire,South East,England,County,Caroline,Nokes,Female,Con hold,Con,LD
+E14000902,E12000002,Rossendale and Darwen,Lancashire,North West,England,Borough,Jake,Berry,Male,Con hold,Con,Lab
+S14000055,S92000003,"Ross, Skye and Lochaber",Scotland,Scotland,Scotland,County,Ian,Blackford,Male,SNP hold,SNP,LD
+E14000904,E12000003,Rotherham,South Yorkshire,Yorkshire and The Humber,England,Borough,Sarah,Champion,Female,Lab hold,Lab,Con
+E14000903,E12000003,Rother Valley,South Yorkshire,Yorkshire and The Humber,England,County,Alexander,Stafford,Male,Con gain from Lab,Con,Lab
+E14000905,E12000005,Rugby,Warwickshire,West Midlands,England,County,Mark,Pawsey,Male,Con hold,Con,Lab
+E14000906,E12000007,"Ruislip, Northwood and Pinner",London,London,England,Borough,David,Simmonds,Male,Con hold,Con,Lab
+E14000907,E12000008,Runnymede and Weybridge,Surrey,South East,England,County,Ben,Spencer,Male,Con hold,Con,Lab
+E14000908,E12000004,Rushcliffe,Nottinghamshire,East Midlands,England,County,Ruth,Edwards,Female,Con hold,Con,Lab
+S14000056,S92000003,Rutherglen and Hamilton West,Scotland,Scotland,Scotland,Borough,Margaret,Ferrier,Female,SNP gain from Lab Coop,SNP,Lab
+E14000909,E12000004,Rutland and Melton,Leicestershire,East Midlands,England,County,Alicia,Kearns,Female,Con hold,Con,Lab
+E14000910,E12000006,Saffron Walden,Essex,East,England,County,Kemi,Badenoch,Female,Con hold,Con,LD
+E14000911,E12000002,Salford and Eccles,Greater Manchester,North West,England,Borough,Rebecca,Long-Bailey,Female,Lab hold,Lab,Con
+E14000912,E12000009,Salisbury,Wiltshire,South West,England,County,John,Glen,Male,Con hold,Con,LD
+E14000913,E12000003,Scarborough and Whitby,North Yorkshire,Yorkshire and The Humber,England,County,Robert,Goodwill,Male,Con hold,Con,Lab
+E14000914,E12000003,Scunthorpe,Humberside,Yorkshire and The Humber,England,County,Holly,Mumby-Croft,Female,Con gain from Lab,Con,Lab
+E14000915,E12000001,Sedgefield,Durham,North East,England,County,Paul,Howell,Male,Con gain from Lab,Con,Lab
+E14000916,E12000002,Sefton Central,Merseyside,North West,England,County,Bill,Esterson,Male,Lab hold,Lab,Con
+E14000917,E12000003,Selby and Ainsty,North Yorkshire,Yorkshire and The Humber,England,County,Nigel,Adams,Male,Con hold,Con,Lab
+E14000918,E12000008,Sevenoaks,Kent,South East,England,County,Laura,Trott,Female,Con hold,Con,LD
+E14000921,E12000003,"Sheffield, Brightside and Hillsborough",South Yorkshire,Yorkshire and The Humber,England,Borough,Gill,Furniss,Female,Lab hold,Lab,Con
+E14000919,E12000003,Sheffield Central,South Yorkshire,Yorkshire and The Humber,England,Borough,Paul,Blomfield,Male,Lab hold,Lab,Con
+E14000922,E12000003,"Sheffield, Hallam",South Yorkshire,Yorkshire and The Humber,England,County,Olivia,Blake,Female,Lab hold,Lab,LD
+E14000923,E12000003,"Sheffield, Heeley",South Yorkshire,Yorkshire and The Humber,England,Borough,Louise,Haigh,Female,Lab hold,Lab,Con
+E14000920,E12000003,Sheffield South East,South Yorkshire,Yorkshire and The Humber,England,Borough,Clive,Betts,Male,Lab hold,Lab,Con
+E14000924,E12000004,Sherwood,Nottinghamshire,East Midlands,England,County,Mark,Spencer,Male,Con hold,Con,Lab
+E14000925,E12000003,Shipley,West Yorkshire,Yorkshire and The Humber,England,County,Philip,Davies,Male,Con hold,Con,Lab
+E14000926,E12000005,Shrewsbury and Atcham,Shropshire,West Midlands,England,County,Daniel,Kawczynski,Male,Con hold,Con,Lab
+E14000927,E12000008,Sittingbourne and Sheppey,Kent,South East,England,County,Gordon,Henderson,Male,Con hold,Con,Lab
+E14000928,E12000003,Skipton and Ripon,North Yorkshire,Yorkshire and The Humber,England,County,Julian,Smith,Male,Con hold,Con,Lab
+E14000929,E12000004,Sleaford and North Hykeham,Lincolnshire,East Midlands,England,County,Caroline,Johnson,Female,Con hold,Con,Lab
+E14000930,E12000008,Slough,Berkshire,South East,England,Borough,Tan,Dhesi,Male,Lab hold,Lab,Con
+E14000931,E12000005,Solihull,West Midlands,West Midlands,England,Borough,Julian,Knight,Male,Con hold,Con,Lab
+E14000932,E12000009,Somerton and Frome,Somerset,South West,England,County,David,Warburton,Male,Con hold,Con,LD
+E14000955,E12000008,"Southampton, Itchen",Hampshire,South East,England,Borough,Royston,Smith,Male,Con hold,Con,Lab
+E14000956,E12000008,"Southampton, Test",Hampshire,South East,England,Borough,Alan,Whitehead,Male,Lab hold,Lab,Con
+N06000014,N92000002,South Antrim,Northern Ireland,Northern Ireland,Northern Ireland,County,Paul,Girvan,Male,DUP hold,DUP,UUP
+E14000933,E12000006,South Basildon and East Thurrock,Essex,East,England,County,Stephen,Metcalfe,Male,Con hold,Con,Lab
+E14000934,E12000006,South Cambridgeshire,Cambridgeshire,East,England,County,Anthony,Browne,Male,Con hold,Con,LD
+E14000935,E12000004,South Derbyshire,Derbyshire,East Midlands,England,County,Heather,Wheeler,Female,Con hold,Con,Lab
+E14000936,E12000009,South Dorset,Dorset,South West,England,County,Richard,Drax,Male,Con hold,Con,Lab
+N06000015,N92000002,South Down,Northern Ireland,Northern Ireland,Northern Ireland,County,Chris,Hazzard,Male,SF hold,SF,SDLP
+E14000937,E12000006,South East Cambridgeshire,Cambridgeshire,East,England,County,Lucy,Frazer,Female,Con hold,Con,LD
+E14000938,E12000009,South East Cornwall,Cornwall,South West,England,County,Sheryll,Murray,Female,Con hold,Con,Lab
+E14000957,E12000006,Southend West,Essex,East,England,Borough,David,Amess,Male,Con hold,Con,Lab
+E14000939,E12000004,South Holland and The Deepings,Lincolnshire,East Midlands,England,County,John,Hayes,Male,Con hold,Con,Lab
+E14000940,E12000004,South Leicestershire,Leicestershire,East Midlands,England,County,Alberto,Costa,Male,Con hold,Con,Lab
+E14000941,E12000006,South Norfolk,Norfolk,East,England,County,Richard,Bacon,Male,Con hold,Con,Lab
+E14000942,E12000004,South Northamptonshire,Northamptonshire,East Midlands,England,County,Andrea,Leadsom,Female,Con hold,Con,Lab
+E14000958,E12000002,Southport,Merseyside,North West,England,Borough,Damien,Moore,Male,Con hold,Con,Lab
+E14000943,E12000002,South Ribble,Lancashire,North West,England,County,Katherine,Fletcher,Female,Con hold,Con,Lab
+E14000944,E12000001,South Shields,Tyne and Wear,North East,England,Borough,Emma,Lewell-Buck,Female,Lab hold,Lab,Con
+E14000945,E12000005,South Staffordshire,Staffordshire,West Midlands,England,County,Gavin,Williamson,Male,Con hold,Con,Lab
+E14000946,E12000006,South Suffolk,Suffolk,East,England,County,James,Cartlidge,Male,Con hold,Con,Lab
+E14000947,E12000009,South Swindon,Wiltshire,South West,England,County,Robert,Buckland,Male,Con hold,Con,Lab
+E14000948,E12000008,South Thanet,Kent,South East,England,County,Craig,Mackinlay,Male,Con hold,Con,Lab
+E14000949,E12000006,South West Bedfordshire,Bedfordshire,East,England,County,Andrew,Selous,Male,Con hold,Con,Lab
+E14000950,E12000009,South West Devon,Devon,South West,England,County,Gary,Streeter,Male,Con hold,Con,Lab
+E14000951,E12000006,South West Hertfordshire,Hertfordshire,East,England,County,Gagan,Mohindra,Male,Con hold,Con,Ind
+E14000952,E12000006,South West Norfolk,Norfolk,East,England,County,Elizabeth,Truss,Female,Con hold,Con,Lab
+E14000953,E12000008,South West Surrey,Surrey,South East,England,County,Jeremy,Hunt,Male,Con hold,Con,LD
+E14000954,E12000009,South West Wiltshire,Wiltshire,South West,England,County,Andrew,Murrison,Male,Con hold,Con,Lab
+E14000959,E12000008,Spelthorne,Surrey,South East,England,Borough,Kwasi,Kwarteng,Male,Con hold,Con,Lab
+E14000965,E12000005,Stafford,Staffordshire,West Midlands,England,County,Theo,Clarke,Female,Con hold,Con,Lab
+E14000966,E12000005,Staffordshire Moorlands,Staffordshire,West Midlands,England,County,Karen,Bradley,Female,Con hold,Con,Lab
+E14000960,E12000006,St Albans,Hertfordshire,East,England,County,Daisy,Cooper,Female,LD gain from Con,LD,Con
+E14000967,E12000002,Stalybridge and Hyde,Greater Manchester,North West,England,County,Jonathan,Reynolds,Male,Lab hold,Lab,Con
+E14000961,E12000009,St Austell and Newquay,Cornwall,South West,England,County,Steve,Double,Male,Con hold,Con,Lab
+E14000968,E12000006,Stevenage,Hertfordshire,East,England,County,Stephen,McPartland,Male,Con hold,Con,Lab
+E14000962,E12000002,St Helens North,Merseyside,North West,England,Borough,Conor,McGinn,Male,Lab hold,Lab,Con
+E14000963,E12000002,St Helens South and Whiston,Merseyside,North West,England,Borough,Marie,Rimmer,Female,Lab hold,Lab,Con
+S14000057,S92000003,Stirling,Scotland,Scotland,Scotland,County,Alyn,Smith,Male,SNP gain from Con,SNP,Con
+E14000964,E12000009,St Ives,Cornwall,South West,England,County,Derek,Thomas,Male,Con hold,Con,LD
+E14000969,E12000002,Stockport,Greater Manchester,North West,England,Borough,Navendu,Mishra,Male,Lab hold,Lab,Con
+E14000970,E12000001,Stockton North,Cleveland,North East,England,Borough,Alex,Cunningham,Male,Lab hold,Lab,Con
+E14000971,E12000001,Stockton South,Cleveland,North East,England,Borough,Matt,Vickers,Male,Con gain from Lab,Con,Lab
+E14000972,E12000005,Stoke-On-Trent Central,Staffordshire,West Midlands,England,Borough,Jo,Gideon,Female,Con gain from Lab Coop,Con,Lab
+E14000973,E12000005,Stoke-On-Trent North,Staffordshire,West Midlands,England,Borough,Jonathan,Gullis,Male,Con gain from Lab,Con,Lab
+E14000974,E12000005,Stoke-On-Trent South,Staffordshire,West Midlands,England,Borough,Jack,Brereton,Male,Con hold,Con,Lab
+E14000975,E12000005,Stone,Staffordshire,West Midlands,England,County,William,Cash,Male,Con hold,Con,Lab
+E14000976,E12000005,Stourbridge,West Midlands,West Midlands,England,Borough,Suzanne,Webb,Female,Con hold,Con,Lab
+N06000016,N92000002,Strangford,Northern Ireland,Northern Ireland,Northern Ireland,County,Jim,Shannon,Male,DUP hold,DUP,Alliance
+E14000977,E12000005,Stratford-On-Avon,Warwickshire,West Midlands,England,County,Nadhim,Zahawi,Male,Con hold,Con,LD
+E14000978,E12000007,Streatham,London,London,England,Borough,Bell,Ribeiro-Addy,Female,Lab hold,Lab,LD
+E14000979,E12000002,Stretford and Urmston,Greater Manchester,North West,England,Borough,Kate,Green,Female,Lab hold,Lab,Con
+E14000980,E12000009,Stroud,Gloucestershire,South West,England,County,Siobhan,Baillie,Female,Con gain from Lab Coop,Con,Lab
+E14000981,E12000006,Suffolk Coastal,Suffolk,East,England,County,Thérèse,Coffey,Female,Con hold,Con,Lab
+E14000982,E12000001,Sunderland Central,Tyne and Wear,North East,England,Borough,Julie,Elliott,Female,Lab hold,Lab,Con
+E14000983,E12000008,Surrey Heath,Surrey,South East,England,County,Michael,Gove,Male,Con hold,Con,LD
+E14000984,E12000007,Sutton and Cheam,London,London,England,Borough,Paul,Scully,Male,Con hold,Con,LD
+E14000985,E12000005,Sutton Coldfield,West Midlands,West Midlands,England,Borough,Andrew,Mitchell,Male,Con hold,Con,Lab
+W07000048,W92000004,Swansea East,West Glamorgan,Wales,Wales,Borough,Carolyn,Harris,Female,Lab hold,Lab,Con
+W07000047,W92000004,Swansea West,West Glamorgan,Wales,Wales,Borough,Geraint,Davies,Male,Lab hold,Lab,Con
+E14000986,E12000005,Tamworth,Staffordshire,West Midlands,England,County,Christopher,Pincher,Male,Con hold,Con,Lab
+E14000987,E12000002,Tatton,Cheshire,North West,England,County,Esther,McVey,Female,Con hold,Con,Lab
+E14000988,E12000009,Taunton Deane,Somerset,South West,England,County,Rebecca,Pow,Female,Con hold,Con,LD
+E14000989,E12000005,Telford,Shropshire,West Midlands,England,Borough,Lucy,Allan,Female,Con hold,Con,Lab
+E14000990,E12000009,Tewkesbury,Gloucestershire,South West,England,County,Laurence,Robertson,Male,Con hold,Con,LD
+E14000991,E12000009,The Cotswolds,Gloucestershire,South West,England,County,Geoffrey,Clifton-Brown,Male,Con hold,Con,LD
+E14000992,E12000005,The Wrekin,Shropshire,West Midlands,England,County,Mark,Pritchard,Male,Con hold,Con,Lab
+E14000993,E12000003,Thirsk and Malton,North Yorkshire,Yorkshire and The Humber,England,County,Kevin,Hollinrake,Male,Con hold,Con,Lab
+E14000994,E12000009,Thornbury and Yate,Avon,South West,England,County,Luke,Hall,Male,Con hold,Con,LD
+E14000995,E12000006,Thurrock,Essex,East,England,Borough,Jacqueline,Doyle-Price,Female,Con hold,Con,Lab
+E14000996,E12000009,Tiverton and Honiton,Devon,South West,England,County,Neil,Parish,Male,Con hold,Con,Lab
+E14000997,E12000008,Tonbridge and Malling,Kent,South East,England,County,Thomas,Tugendhat,Male,Con hold,Con,LD
+E14000998,E12000007,Tooting,London,London,England,Borough,Rosena,Allin-Khan,Female,Lab hold,Lab,Con
+E14000999,E12000009,Torbay,Devon,South West,England,Borough,Kevin,Foster,Male,Con hold,Con,LD
+W07000053,W92000004,Torfaen,Gwent and Mid Glamorgan,Wales,Wales,County,Nick,Thomas-Symonds,Male,Lab hold,Lab,Con
+E14001000,E12000009,Torridge and West Devon,Devon,South West,England,County,Geoffrey,Cox,Male,Con hold,Con,LD
+E14001001,E12000009,Totnes,Devon,South West,England,County,Anthony,Mangnall,Male,Con hold,Con,LD
+E14001002,E12000007,Tottenham,London,London,England,Borough,David,Lammy,Male,Lab hold,Lab,Con
+E14001003,E12000009,Truro and Falmouth,Cornwall,South West,England,County,Cherilyn,Mackrory,Female,Con hold,Con,Lab
+E14001004,E12000008,Tunbridge Wells,Kent,South East,England,County,Gregory,Clark,Male,Con hold,Con,LD
+E14001005,E12000007,Twickenham,London,London,England,Borough,Munira,Wilson,Female,LD hold,LD,Con
+E14001006,E12000001,Tynemouth,Tyne and Wear,North East,England,Borough,Alan,Campbell,Male,Lab hold,Lab,Con
+N06000017,N92000002,Upper Bann,Northern Ireland,Northern Ireland,Northern Ireland,County,Carla,Lockhart,Female,DUP hold,DUP,SF
+E14001007,E12000007,Uxbridge and South Ruislip,London,London,England,Borough,Boris,Johnson,Male,Con hold,Con,Lab
+W07000060,W92000004,Vale Of Clwyd,Clwyd,Wales,Wales,County,James,Davies,Male,Con gain from Lab,Con,Lab
+W07000078,W92000004,Vale Of Glamorgan,South Glamorgan,Wales,Wales,County,Alun,Cairns,Male,Con hold,Con,Lab
+E14001008,E12000007,Vauxhall,London,London,England,Borough,Florence,Eshalomi,Female,Lab hold,Lab,LD
+E14001009,E12000003,Wakefield,West Yorkshire,Yorkshire and The Humber,England,County,Imran,Ahmad Khan,Male,Con gain from Lab,Con,Lab
+E14001010,E12000002,Wallasey,Merseyside,North West,England,Borough,Angela,Eagle,Female,Lab hold,Lab,Con
+E14001011,E12000005,Walsall North,West Midlands,West Midlands,England,Borough,Eddie,Hughes,Male,Con hold,Con,Lab
+E14001012,E12000005,Walsall South,West Midlands,West Midlands,England,Borough,Valerie,Vaz,Female,Lab hold,Lab,Con
+E14001013,E12000007,Walthamstow,London,London,England,County,Stella,Creasy,Female,Lab hold,Lab,Con
+E14001014,E12000001,Wansbeck,Northumberland,North East,England,County,Ian,Lavery,Male,Lab hold,Lab,Con
+E14001015,E12000008,Wantage,Oxfordshire,South East,England,County,David,Johnston,Male,Con hold,Con,LD
+E14001016,E12000005,Warley,West Midlands,West Midlands,England,Borough,John,Spellar,Male,Lab hold,Lab,Con
+E14001017,E12000002,Warrington North,Cheshire,North West,England,Borough,Charlotte,Nichols,Female,Lab hold,Lab,Con
+E14001018,E12000002,Warrington South,Cheshire,North West,England,Borough,Andy,Carter,Male,Con gain from Lab,Con,Lab
+E14001019,E12000005,Warwick and Leamington,Warwickshire,West Midlands,England,Borough,Matt,Western,Male,Lab hold,Lab,Con
+E14001020,E12000001,Washington and Sunderland West,Tyne and Wear,North East,England,Borough,Sharon,Hodgson,Female,Lab hold,Lab,Con
+E14001021,E12000006,Watford,Hertfordshire,East,England,Borough,Dean,Russell,Male,Con hold,Con,Lab
+E14001022,E12000006,Waveney,Suffolk,East,England,County,Peter,Aldous,Male,Con hold,Con,Lab
+E14001023,E12000008,Wealden,East Sussex,South East,England,County,Nusrat,Ghani,Female,Con hold,Con,LD
+E14001024,E12000002,Weaver Vale,Cheshire,North West,England,County,Mike,Amesbury,Male,Lab hold,Lab,Con
+E14001025,E12000004,Wellingborough,Northamptonshire,East Midlands,England,County,Peter,Bone,Male,Con hold,Con,Lab
+E14001026,E12000009,Wells,Somerset,South West,England,County,James,Heappey,Male,Con hold,Con,LD
+E14001027,E12000006,Welwyn Hatfield,Hertfordshire,East,England,County,Grant,Shapps,Male,Con hold,Con,Lab
+E14001028,E12000003,Wentworth and Dearne,South Yorkshire,Yorkshire and The Humber,England,County,John,Healey,Male,Lab hold,Lab,Con
+S14000058,S92000003,West Aberdeenshire and Kincardine,Scotland,Scotland,Scotland,County,Andrew,Bowie,Male,Con hold,Con,SNP
+E14001029,E12000005,West Bromwich East,West Midlands,West Midlands,England,Borough,Nicola,Richards,Female,Con gain from Lab,Con,Lab
+E14001030,E12000005,West Bromwich West,West Midlands,West Midlands,England,Borough,Shaun,Bailey,Male,Con gain from Lab Coop,Con,Lab
+E14001031,E12000009,West Dorset,Dorset,South West,England,County,Chris,Loder,Male,Con hold,Con,LD
+S14000059,S92000003,West Dunbartonshire,Scotland,Scotland,Scotland,County,Martin,Docherty-Hughes,Male,SNP hold,SNP,Lab
+E14001032,E12000007,West Ham,London,London,England,Borough,Lyn,Brown,Female,Lab hold,Lab,Con
+E14001033,E12000002,West Lancashire,Lancashire,North West,England,County,Rosie,Cooper,Female,Lab hold,Lab,Con
+E14001036,E12000007,Westminster North,London,London,England,Borough,Karen,Buck,Female,Lab hold,Lab,Con
+E14001037,E12000002,Westmorland and Lonsdale,Cumbria,North West,England,County,Timothy,Farron,Male,LD hold,LD,Con
+E14001038,E12000009,Weston-Super-Mare,Avon,South West,England,County,John,Penrose,Male,Con hold,Con,Lab
+E14001034,E12000006,West Suffolk,Suffolk,East,England,County,Matthew,Hancock,Male,Con hold,Con,Lab
+N06000018,N92000002,West Tyrone,Northern Ireland,Northern Ireland,Northern Ireland,County,Órfhlaith,Begley,Female,SF hold,SF,DUP
+E14001035,E12000005,West Worcestershire,Hereford and Worcester,West Midlands,England,County,Harriett,Baldwin,Female,Con hold,Con,LD
+E14001039,E12000002,Wigan,Greater Manchester,North West,England,County,Lisa,Nandy,Female,Lab hold,Lab,Con
+E14001040,E12000007,Wimbledon,London,London,England,Borough,Stephen,Hammond,Male,Con hold,Con,LD
+E14001041,E12000008,Winchester,Hampshire,South East,England,County,Stephen,Brine,Male,Con hold,Con,LD
+E14001042,E12000008,Windsor,Berkshire,South East,England,County,Adam,Afriyie,Male,Con hold,Con,LD
+E14001043,E12000002,Wirral South,Merseyside,North West,England,County,Alison,McGovern,Female,Lab hold,Lab,Con
+E14001044,E12000002,Wirral West,Merseyside,North West,England,County,Margaret,Greenwood,Female,Lab hold,Lab,Con
+E14001045,E12000006,Witham,Essex,East,England,County,Priti,Patel,Female,Con hold,Con,Lab
+E14001046,E12000008,Witney,Oxfordshire,South East,England,County,Robert,Courts,Male,Con hold,Con,LD
+E14001047,E12000008,Woking,Surrey,South East,England,County,Jonathan,Lord,Male,Con hold,Con,LD
+E14001048,E12000008,Wokingham,Berkshire,South East,England,County,John,Redwood,Male,Con hold,Con,LD
+E14001049,E12000005,Wolverhampton North East,West Midlands,West Midlands,England,Borough,Jane,Stevenson,Female,Con gain from Lab,Con,Lab
+E14001050,E12000005,Wolverhampton South East,West Midlands,West Midlands,England,Borough,Pat,McFadden,Male,Lab hold,Lab,Con
+E14001051,E12000005,Wolverhampton South West,West Midlands,West Midlands,England,Borough,Stuart,Anderson,Male,Con gain from Lab,Con,Lab
+E14001052,E12000005,Worcester,Hereford and Worcester,West Midlands,England,Borough,Robin,Walker,Male,Con hold,Con,Lab
+E14001053,E12000002,Workington,Cumbria,North West,England,County,Mark,Jenkinson,Male,Con gain from Lab,Con,Lab
+E14001054,E12000002,Worsley and Eccles South,Greater Manchester,North West,England,County,Barbara,Keeley,Female,Lab hold,Lab,Con
+E14001055,E12000008,Worthing West,West Sussex,South East,England,Borough,Peter,Bottomley,Male,Con hold,Con,Lab
+W07000044,W92000004,Wrexham,Clwyd,Wales,Wales,County,Sarah,Atherton,Female,Con gain from Lab,Con,Lab
+E14001056,E12000008,Wycombe,Buckinghamshire,South East,England,County,Steve,Baker,Male,Con hold,Con,Lab
+E14001057,E12000002,Wyre and Preston North,Lancashire,North West,England,County,Ben,Wallace,Male,Con hold,Con,Lab
+E14001058,E12000005,Wyre Forest,Hereford and Worcester,West Midlands,England,County,Mark,Garnier,Male,Con hold,Con,Lab
+E14001059,E12000002,Wythenshawe and Sale East,Greater Manchester,North West,England,Borough,Michael,Kane,Male,Lab hold,Lab,Con
+E14001060,E12000009,Yeovil,Somerset,South West,England,County,Marcus,Fysh,Male,Con hold,Con,LD
+W07000041,W92000004,Ynys Mon,Gwynedd,Wales,Wales,County,Virginia,Crosbie,Female,Con gain from Lab,Con,Lab
+E14001061,E12000003,York Central,North Yorkshire,Yorkshire and The Humber,England,Borough,Rachael,Maskell,Female,Lab hold,Lab,Con
+E14001062,E12000003,York Outer,North Yorkshire,Yorkshire and The Humber,England,County,Julian,Sturdy,Male,Con hold,Con,Lab
